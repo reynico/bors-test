@@ -1,0 +1,5 @@
+status = [
+  "continuous-integration/travis-ci/pr"
+]
+
+timeout_sec = 600
