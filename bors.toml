@@ -1,3 +1,4 @@
 status = [
-  "concourse-ci/status"
+  "continuous-integration/travis-ci/push",
+  "continuous-integration/travis-ci/pr"
 ]
