@@ -3,7 +3,7 @@ status = [
 ]
 
 block_labels = [
-    "status: on-hodl"
+    "on-hodl"
 ]
 
 timeout_sec = 600
