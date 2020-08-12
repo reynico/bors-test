@@ -4,3 +4,8 @@ python:
 cache: pip
 script:
   - make test
+
+branches:
+  except:
+    - staging.tmp
+    - testing.tmp
