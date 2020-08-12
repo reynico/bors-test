@@ -2,4 +2,8 @@ status = [
   "continuous-integration/travis-ci/push"
 ]
 
+block_labels = [
+    "status: on-hodl"
+]
+
 timeout_sec = 600
