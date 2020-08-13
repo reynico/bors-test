@@ -9,3 +9,4 @@ branches:
   except:
     - staging.tmp
     - testing.tmp
+    - trying.tmp
